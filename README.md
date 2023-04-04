@@ -11,5 +11,5 @@ run the file "Import_DATA_TDK.m which transforms the previously mentioned two da
 DATASET_TDK.mat so as to be compatible with the main file VAR_main_TDK2.m. Then, run VAR_main_TDK2.m
 with the desired parameters (the default setting is the final model in the study). 
 
-If you wish to skip the data wrangling part and only wish to focus on the estimation, you only
-have to import DATASET_TDK.mat, then run VAR_main_TDK2.m.
+If you wish to skip the data wrangling part and only wish to focus on the estimation, 
+then - after importing all the Matlab files -you only have to run VAR_main_TDK2.m.
